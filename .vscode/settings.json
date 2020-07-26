@@ -1,0 +1,10 @@
+{
+    "launch": {
+
+        "configurations": [],
+        "compounds": [],
+        "terminal.integrated.shellArgs.windows": ["/K chcp 65001 >nul"],
+        "editor.fontSize": 18,
+        "terminal.integrated.fontFamily": "Lucida Console"
+
+}
